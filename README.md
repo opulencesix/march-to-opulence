@@ -1,4 +1,4 @@
-# marchToOpulence
+# March To Opulence
 
 March To Opulence is a book we published a while back, to entertain, empower, enrich. Most of the content is already in public domain. 
 
